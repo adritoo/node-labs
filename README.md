@@ -13,7 +13,7 @@ The project is compose by an `index.js` file with the server creation and `handl
 ## Notes
 - instal the project and packages
 ```console
-npm install'
+npm install
 ```
 - run the project :
 ```console
