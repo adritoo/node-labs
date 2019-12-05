@@ -1,13 +1,24 @@
-NodeJs Introduction
-This project is a continuous lab where we use differents tools seen in class.
+# NodeJS Lab - ECE 2019.
 
-Installation
-$ git clone https://github.com/adritoo/node-labs
+These labs are from the devops class given by Sergei from Ada
+
+## Installation
+
+```bash
+$ git clone https://github.com/adritoo/node-lab
 $ npm install
-Running the project
-$ npm start
-Author
-Adrien BOURGET
+```
 
-License
-MIT
+## Usage
+
+```bash
+$ npm start
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
