@@ -1,6 +1,6 @@
 # NodeJS Lab - ECE 2019.
 
-These labs are from the devops class given by Sergei from Ada
+These labs are from the devops class given by Sergei from Adaltas
 
 ## Installation
 
