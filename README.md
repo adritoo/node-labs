@@ -5,7 +5,7 @@ These labs are from the devops class given by Sergei from Adaltas
 ## Installation
 
 ```bash
-$ git clone https://github.com/adritoo/node-lab
+$ git clone https://github.com/adritoo/node-labs
 $ npm install
 ```
 
