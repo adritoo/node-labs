@@ -1,2 +1,13 @@
-# node-labs
-Node-lab1
+NodeJs Introduction
+This project is a continuous lab where we use differents tools seen in class.
+
+Installation
+$ git clone https://github.com/adritoo/node-labs
+$ npm install
+Running the project
+$ npm start
+Author
+Valentin MONNIER
+
+License
+MIT
