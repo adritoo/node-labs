@@ -7,7 +7,7 @@ $ npm install
 Running the project
 $ npm start
 Author
-Valentin MONNIER
+Adrien BOURGET
 
 License
 MIT
